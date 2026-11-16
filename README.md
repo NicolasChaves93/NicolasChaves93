@@ -112,16 +112,18 @@ I don't believe in adding complexity or technology just for its own sake. I look
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Activity
+
+Rather than relying on third-party statistics images that can become unavailable, I keep this section focused on GitHub's own profile activity and repositories.
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NicolasChaves93&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasChaves93&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Most used programming languages" />
+
+[![Explore repositories](https://img.shields.io/badge/Explore-My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/NicolasChaves93?tab=repositories)
+[![Contribution activity](https://img.shields.io/badge/View-Contribution_Activity-238636?style=for-the-badge&logo=github)](https://github.com/NicolasChaves93)
+
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=NicolasChaves93&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
+You can find my contribution graph, activity history, pinned projects, and repository details directly on my GitHub profile.
 
 ---
 
