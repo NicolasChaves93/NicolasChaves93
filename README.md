@@ -9,7 +9,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-NicolasChaves93-181717?style=for-the-badge&logo=github)](https://github.com/NicolasChaves93)
-![Profile views](https://komarev.com/ghpvc/?username=NicolasChaves93&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS)
+[![Profile views](https://komarev.com/ghpvc/?username=NicolasChaves93&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS)](https://github.com/NicolasChaves93)
 
 </div>
 
@@ -19,12 +19,13 @@
 
 I'm a **Full Stack Developer** who enjoys designing and building maintainable software — from backend services and APIs to frontend applications.
 
-I’m especially interested in **software architecture, microservices, clean code, and engineering practices** that help applications evolve without becoming harder to maintain.
+My strongest skill is finding **practical solutions to real-world problems**. I focus on applying solid development practices, automating and streamlining processes, and making thoughtful use of resources. I aim to deliver **lower costs, greater efficiency, and simpler operations** without compromising quality. I believe the right software architecture makes this possible: good design helps teams build solutions that are maintainable, scalable, and cost-effective.
 
 - 🔭 Working on full-stack applications and backend services.
 - 🌱 Deepening my skills in **Angular, Java/Spring Boot, software architecture, and cloud technologies**.
 - 🧩 Exploring **Go and .NET** while strengthening my core stack.
-- 💬 Interested in discussing APIs, architecture, design patterns, and application development.
+- 💡 Focused on turning complex needs into practical, efficient, and cost-conscious solutions.
+- 💬 Interested in discussing APIs, architecture, design patterns, automation, and application development.
 
 ---
 
@@ -79,6 +80,20 @@ I’m especially interested in **software architecture, microservices, clean cod
     </td>
   </tr>
 </table>
+
+---
+
+## 🎯 My Engineering Approach
+
+<div align="center">
+
+| Practical solutions | Automation | Resource optimization | Good architecture |
+|:---:|:---:|:---:|:---:|
+| Solve the actual problem | Reduce repetitive work | Minimize cost and waste | Build for maintainability and scale |
+
+</div>
+
+I don't believe in adding complexity or technology just for its own sake. I look for the simplest architecture that meets the need, uses resources wisely, and leaves room for the product to grow.
 
 ---
 
