@@ -4,6 +4,10 @@
 
 ### Build smart. Optimize resources. Deliver value.
 
+<a href="https://github.com/NicolasChaves93">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+solutions+that+deliver+real+value;Thoughtful+architecture+for+real-world+problems;Optimize+resources.+Build+to+last." alt="Professional philosophy" />
+</a>
+
 **I don't build software just for the sake of building it. I build solutions that deliver real value, optimize resources, and solve problems through thoughtful architecture.**
 
 [![Explore repositories](https://img.shields.io/badge/Explore-My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/NicolasChaves93?tab=repositories)
