@@ -39,20 +39,69 @@ Good software is not about adopting the most technologies or building the most c
 
 ## 🚀 Featured Projects
 
-| Project | What it demonstrates | Stack |
-|---|---|---|
-| [Sistema experto agrícola](https://github.com/NicolasChaves93/sistema-experto-agricola) | A hybrid decision-support system that turns public agricultural data into explainable purchasing recommendations. | Python · Streamlit · Fuzzy Logic · APIs |
-| [Products & Inventory](https://github.com/NicolasChaves93/fullstack-products-inventory) | A full-stack inventory platform built with decoupled services, containerized local development, and resilient backend patterns. | Angular · Java · Spring Boot · PostgreSQL · Docker |
-| [Trivia API](https://github.com/NicolasChaves93/trivia_api) | A REST API for events, trivia, questions, participants, and results, with containerized deployment automation. | Python · REST API · Docker · Azure |
-| [Sports Application](https://github.com/NicolasChaves93/aplication-sport) | A full-stack sports application organized around frontend, backend, and infrastructure components. | JavaScript · Full Stack |
+<div align="center">
+
+*Selected work where architecture serves a real problem.*
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 <a href="https://github.com/NicolasChaves93/sistema-experto-agricola">Agricultural Expert System</a></h3>
+      <p>Transforms public agricultural data into explainable purchasing recommendations for small businesses.</p>
+      <p><sub>🐍 Python · 📊 Streamlit · 🧠 Fuzzy Logic · 🔌 Public APIs</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 <a href="https://github.com/NicolasChaves93/fullstack-products-inventory">Products & Inventory</a></h3>
+      <p>Full-stack inventory platform with decoupled services, resilient backend patterns, and containerized local development.</p>
+      <p><sub>🅰️ Angular · ☕ Java · 🍃 Spring Boot · 🐘 PostgreSQL · 🐳 Docker</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/NicolasChaves93/trivia_api">Trivia API</a></h3>
+      <p>REST API for events, questions, participants, and results, with automated containerized deployment.</p>
+      <p><sub>🐍 Python · 🔗 REST API · 🐳 Docker · ☁️ Azure</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏃 <a href="https://github.com/NicolasChaves93/aplication-sport">Sports Application</a></h3>
+      <p>Full-stack sports application structured around frontend, backend, and infrastructure components.</p>
+      <p><sub>🟨 JavaScript · 🧩 Full Stack · ⚙️ Infrastructure</sub></p>
+    </td>
+  </tr>
+</table>
 
 ## 🎯 Engineering Principles
 
-| Deliver value | Optimize resources | Choose thoughtfully | Build to last |
-|:---:|:---:|:---:|:---:|
-| Solve the actual problem | Minimize cost and waste | Prefer the simplest effective architecture | Prioritize maintainability and scalability |
+<div align="center">
 
-I use technology as a means to solve problems—not as an end in itself.
+> **Technology is a means to solve problems—not an end in itself.**
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Deliver value</h3>
+      <p>Start with the real problem and build what creates meaningful outcomes.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Optimize resources</h3>
+      <p>Reduce unnecessary cost, complexity, and operational waste.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧭 Choose thoughtfully</h3>
+      <p>Use the simplest architecture that effectively meets the need.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏗️ Build to last</h3>
+      <p>Prioritize maintainability and scalability from the first decision.</p>
+    </td>
+  </tr>
+</table>
 
 ## 🧱 Interests
 
